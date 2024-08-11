@@ -10,7 +10,7 @@ This is a section of the Defi new development for stablecoin algo, this is being
 This is a DeFi stablecoin that's for a POC and then move it into production.
 This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.
 
-- [DeFi Stablecoin](#DeFi Stablecoin)
+- [DeFi Stablecoin](#defi-stablecoin)
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
