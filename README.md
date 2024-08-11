@@ -1,28 +1,37 @@
 # DeFi Stablecoin
 
+This is a section of the Defi new development for stablecoin algo, this is being implemented as a Proof of Concept.
+
+## TODO: This has to be updated with contract address.
+[DSCEngine Example](https://sepolia.etherscan.io/address/#code)
+[Decentralized Stablecoin Example](https://sepolia.etherscan.io/address/#code)
+
+# About
 This is a DeFi stablecoin that's for a POC and then move it into production.
 This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.
 
-    - [Getting Started](#Getting Started)
-        - [Requirements](#requirements)
-        - [Quickstart](#quickstart)
-        - [Optional Gitpod](#optional-gitpod)
-    - [Updates](#updates)
-    - [Usage](#usage)
-        - [Start a local node](#start-a-local-node)
-        - [Deploy](#deploy)
-        - [Deploy - Other Network](#deploy---other-network)
-        - [Testing](#testing)
-            - [Test Coverage](#test-coverage)
-    - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
-        - [Scripts](#scripts)
-        - [Estimate gas](#estimate-gas)
-    - [Formatting](#formatting)
-    - [Slither](#slither)
-    - [Additional Info:](#additional-info)
-        - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
-        - [Summary](#summary)
-    - [Thank you!](#thank-you)
+- [DeFi Stablecoin](#DeFi Stablecoin)
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+    - [Optional Gitpod](#optional-gitpod)
+- [Updates](#updates)
+- [Usage](#usage)
+  - [Start a local node](#start-a-local-node)
+  - [Deploy](#deploy)
+  - [Deploy - Other Network](#deploy---other-network)
+  - [Testing](#testing)
+    - [Test Coverage](#test-coverage)
+- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
+  - [Scripts](#scripts)
+  - [Estimate gas](#estimate-gas)
+- [Formatting](#formatting)
+- [Slither](#slither)
+- [Additional Info:](#additional-info)
+  - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
+  - [Summary](#summary)
+- [Thank you!](#thank-you)
 
 
 
